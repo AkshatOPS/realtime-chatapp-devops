@@ -104,4 +104,6 @@ This project is a DevOps-focused fork of their excellent work.
 
 🤝 Contributions
 Contributions are welcome. Feel free to fork the repo, open issues, or create pull requests.
->>>>>>> afb3f478b202e4368b8d4c32de63169775a2a534
+
+## 🖼️ App Screenshot
+![Chat App Screenshot](./chatappscreenshot.png)
