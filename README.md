@@ -170,7 +170,9 @@ docker-compose logs -f
 You can now interact with the real-time chat app and start messaging!
 
 ---
-
+🙏 Acknowledgement
+Special thanks to @iemafzalhassan for the original full-stack chat application repo.
+This project is a DevOps-focused fork of their excellent work.
 
 
 ### 🤝 Contributing
