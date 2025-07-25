@@ -43,7 +43,7 @@ chat-app/
 ├── docker-compose.yml # (if used locally)
 └── README.md
 
-How to Run (Local Docker Setup)
+⚙️ How to Run (Local Docker Setup)
 Clone the Repository
 
 bash
