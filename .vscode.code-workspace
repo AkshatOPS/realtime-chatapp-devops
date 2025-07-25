@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../vscode lib/.vscode"
+		},
+		{
+			"name": "full-stack_chatApp",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
